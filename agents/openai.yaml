@@ -1,0 +1,4 @@
+interface:
+  display_name: "Polished Delivery"
+  short_description: "Ship finished, on-brand, verified product work"
+  default_prompt: "Use $polished-delivery to build this so it ships finished: learn and reuse the project's design system and permission rules, design every state, verify on desktop and phone, run the tests, and self-review before reporting."
